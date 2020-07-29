@@ -1,3 +1,7 @@
+# UI Clone Tweeter
+
+![Main Page](https://github.com/AntonioGally/Clone-Tweeter/blob/master/tweeter.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
